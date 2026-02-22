@@ -1,0 +1,14 @@
+<resources>
+    <style name="Theme.Mylogin" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#B99E8E</item>
+        <item name="colorPrimaryDark">#8C7B72</item>
+        <item name="colorAccent">#B99E8E</item>
+    </style>
+
+    <style name="Theme.Mylogin.Splash" parent="Theme.Mylogin">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+</resources>
